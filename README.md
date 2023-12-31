@@ -25,7 +25,7 @@ Questions Explored
 
 Insights
 
-•	Customer B is the most frequent visitor with 6 visits in Jan 2021.
-•	Danny’s Diner’s most popular item is ramen, followed by curry and sushi.
-•	Customer A loves ramen, Customer C loves only ramen whereas Customer B seems to enjoy sushi, curry, and ramen equally.
-•	The last item ordered by Customers A and B before they became members is sushi and curry. Does it mean both items are the deciding factor?
+1. Customer B is the most frequent visitor with 6 visits in Jan 2021.
+2. Danny’s Diner’s most popular item is ramen, followed by curry and sushi.
+3. Customer A loves ramen, Customer C loves only ramen whereas Customer B seems to enjoy sushi, curry, and ramen equally.
+4. The last item ordered by Customers A and B before they became members is sushi and curry. Does it mean both items are the deciding factor?
