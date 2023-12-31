@@ -31,7 +31,7 @@ CREATE TABLE menu(
 );
 INSERT INTO menu (product_id, product_name, price)
 VALUES
-	(1, 'sushi', 10),
+    (1, 'sushi', 10),
     (2, 'curry', 15),
     (3, 'ramen', 12);
 
@@ -41,7 +41,7 @@ CREATE TABLE members(
 );
 INSERT INTO members	(customer_id, join_date)
 VALUES
-	('A', '2021-01-07'),
+    ('A', '2021-01-07'),
     ('B', '2021-01-09');
 */
 ------------------------------------------------------------------------------------------------------------------
@@ -211,5 +211,4 @@ SELECT *,
 		ELSE RANK () OVER(PARTITION BY customer_id, member ORDER BY order_date) END AS ranking
 FROM customers_data
 ORDER BY customer_id, order_date;
-
 ------------------------------------------------------------------------------------------------------------------
